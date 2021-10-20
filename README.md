@@ -125,6 +125,6 @@ It uses MongoDB,express,nodejs.
 
 ## Authors
 
-- [@Aanyajain](https://github.com/Aanyajain)
+- [@AanyaJain](https://github.com/AanyaJain2000)
 
   
